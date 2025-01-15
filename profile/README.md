@@ -1,4 +1,4 @@
-Hey! I'm working on a yet-to-be-named successor to neopub, which can be found here: [libneopub/untitled](https://github.com/libneopub/untitled). It's still an early prototype. If you're interested, do reach out! My contact details can be found on my profile and [personal website](https://roblog.nl).
+Hey! I'm working on a yet-to-be-named successor to neopub, which can be found here: [dupunkto/pubb](https://github.com/dupunkto/pubb) (the repo at [libneopub/untitled](https://github.com/libneopub/untitled) is outdated). It's still an early prototype. If you're interested, do reach out! My contact details can be found on my profile and [personal website](https://roblog.nl).
 
 For now, here's the old README:
 
